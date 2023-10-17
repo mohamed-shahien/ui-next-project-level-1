@@ -1,0 +1,41 @@
+.title{
+    margin-bottom:15px ;
+}
+.desc{
+    font-size: 18px;
+}
+.imgContainer {
+    position: relative;
+    height: 300px;
+    margin: 25px 0;
+}
+.image {
+    object-fit: cover;
+    border-radius: 15px;
+}
+.outher{
+    position: absolute;
+    background-color: var(--primary-color);
+    color: #111;
+    padding: 5px 10px;
+    right: 0;
+    bottom: 0;
+}
+.text{
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    columns: 2;
+    text-align: justify;
+}
+.title {
+    font-size: 26px;
+    color: #fff;
+    font-weight: bold;
+}
+.gallary {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px;
+}

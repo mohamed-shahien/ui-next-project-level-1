@@ -1,0 +1,12 @@
+
+.container {
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+}
+.linkes {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
